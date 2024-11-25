@@ -1,0 +1,15 @@
+h1
+{
+	color:red;
+	text-align:center;
+}
+h2{
+	color:brown;
+}
+.img{
+	width:100px;
+	height:100px;
+}
+body{
+	background-color:lightblue;
+}
